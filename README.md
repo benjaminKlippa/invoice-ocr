@@ -44,7 +44,7 @@ The API may have rate limits or require specific image formats—consult the doc
 
 >Please ensure that the image is the only object in the image with edges clearly visible.
 
-<img src="/images/example_invoice.jpg" alt="invoice-example" width="400" height="400">
+<img src="/images/example_invoice.jpg" alt="invoice-example">
 
 ### Example
 An example of a POST request using cURL:
