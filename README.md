@@ -44,7 +44,7 @@ The API may have rate limits or require specific image formats—consult the doc
 
 >Please ensure that the image is the only object in the image with edges clearly visible.
 
-<img src="/images/example-invoice.pdf" alt="invoice-example" width="400" height="400">
+<img src="/images/example_invoice.jpg" alt="invoice-example" width="400" height="400">
 
 ### Example
 An example of a POST request using cURL:
@@ -644,7 +644,7 @@ Follow these steps to get your API key:
 * [Link to documentation](https://dochorizon.klippa.com/docs/platform/credentials) for further information
 
 > Image of the Access page within an existing credential
-<img src="/images/screenshot.png" alt="screenshot API key" width="1000" height="400">
+<img src="/images/access_credentials_invoiceOCR.png" alt="screenshot API key" width="1000" height="400">
 
 > In the API keys tab you will find the API key
 
