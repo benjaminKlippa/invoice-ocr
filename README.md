@@ -42,7 +42,7 @@ Ensure you use secure methods to store and manage your API keys.
 Always refer to the official Klippa API documentation for the most up-to-date information, including any changes in endpoints or request formats.
 The API may have rate limits or require specific image formats—consult the documentation for these details.
 
->Please ensure that the image is the only object in the image with edges clearly visible.
+>Please ensure that the file is the only object in the image with edges clearly visible.
 
 <img src="/images/example_invoice.jpg" alt="invoice-example">
 

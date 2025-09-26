@@ -1,0 +1,17 @@
+{
+  "name": "invoice-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "captureInvoice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminKlippa/invoice-ocr.git"
+  },
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
